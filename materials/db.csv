@@ -1,0 +1,6 @@
+PID,MT_CODE,MT_GROUP_CODE,NAME,Alias,DESCRIPTION,UNIT,GST,BASE_PRICE,CREATED_DATE,UPDATED_DATE,CREATED_BY,UPDATED_BY
+0,BLDNG_MTRL,,Building Material,BM,,null,,,25-11-2019,25-11-2019 13:14:34,prateek.tyagi@buildsupply.com,koduru.sidharth@buildsupply.com
+1,CMNT,BLDNG_MTRL,Cement,CMT,,Bag,18,250,25-11-2019,25-11-2019 13:14:34,prateek.tyagi@buildsupply.com,koduru.sidharth@buildsupply.com
+2,OPC 53,CMNT,OPC 43,OPC 43,,Bag,18,250,25-11-2019,25-11-2019 13:14:34,prateek.tyagi@buildsupply.com,koduru.sidharth@buildsupply.com
+0,rebar,BLDNG_MTRL,REBAR,REBAR,,kg,18,1000,25-11-2019,25-11-2019 13:14:34,prateek.tyagi@buildsupply.com,koduru.sidharth@buildsupply.com
+4,rebar_4mm,rebar,rebar_4mm,rebar_4mm,,KG,18,800,25-11-2019,25-11-2019 13:14:34,prateek.tyagi@buildsupply.com,koduru.sidharth@buildsupply.com

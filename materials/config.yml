@@ -1,0 +1,18 @@
+mode: ${BS_ENV_MODE:dev}
+echo:
+  # port: ":8080"
+  port: ":1333"
+  static: "public"
+
+fluent:
+  path: "./fluent.log"
+  rotate: 1
+
+database:
+  type: "postgres"
+  host: ${BS_IMATERIAL_POSTGRES_MM_DB_HOST:localhost}
+  user: ${BS_IMATERIAL_POSTGRES_MM_DB_USER:postgres}
+  password: ${BS_IMATERIAL_POSTGRES_MM_DB_PASSWORD:postgres}
+  name: ${BS_IMATERIAL_POSTGRES_MM_DB_NAME:materials}
+  port: ${BS_IMATERIAL_POSTGRES_MM_DB_PORT:5432}
+  sslMode: ${BS_IMATERIAL_POSTGRES_MM_DB_SSL_MODE:disable}

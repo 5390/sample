@@ -1,0 +1,1431 @@
+parentGroupCode,materialCode,parentGroupName,materialName,Alias,DESCRIPTION,UNITS,GST,BASE_PRICE
+MG_CS0001,ML_MGCS1_010,Cementitious Material,Ground Quartz,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_007,Cement,White cement (loose),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_009,Cementitious Material,Fly Ash,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_003,Cement,Pozolona Portland cement,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_004,Cement,White cement,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_005,Cement,Grey cement,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_001,Cement,Ordinary Portland cement grade 43,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_002,Cement,Ordinary Portland cement grade 53,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_006,Cement,Acid Proof Cement,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0001,ML_MGCS1_008,Cement,Fire Resistant mortar,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0002,ML_MGCS2_002,Sand,Fine sand,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0002,ML_MGCS2_004,Sand,Stone dust,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0002,ML_MGCS2_001,Sand,Coarse sand,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0002,ML_MGCS2_003,Sand,Marble dust,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0002,ML_MGCS2_005,High Performance Concrete- Material,Silica Sand,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0002,ML_MGCS2_006,Sand,RedBajri,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0002,ML_MGCS2_007,Sand,Moorum,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_009,stone aggregate,Aggregates 63 mm Nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_007,stone aggregate,Stone chipping/screening 10mm nominal size,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_017,Stone aggregate,Stone chippings/ screenings 12.5/13.2 mm nominal size,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_014,Stone aggregate,Aggregates 25 mm Nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_002,stone aggregate,Aggregates (20-40mm) nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_004,stone aggregate,Stone grit 6 mm and down size,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_006,Light Weight Concrete- Aggregate,Aggregates - CLC,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_001,stone aggregate,Aggregates (10-20mm) nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_003,stone aggregate,Stone Aggregate (Single size) : 10 mm nominal size,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_005,stone aggregate,Stone Aggregate (Single size) : 12.5 mm nominal size,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_011,stone aggregate,Aggregates 40 mm Nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_012,Stone aggregate,Stone chippings/ screenings 4.75 mm nominal size,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_013,Stone aggregate,Stone chippings/ screenings 150 micron nominal size,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_008,stone aggregate,Aggregates 80 mm Nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_018,Stone aggregate,Stone chippings/ screenings 10/11.2 mm nominal size,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_010,stone aggregate,Aggregates 50 mm Nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_015,Stone aggregate,Aggregates 20 mm Nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0003,ML_MGCS3_016,Stone aggregate,Aggregates 6 mm Nominal,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0004,ML_MGCS4_001,Plasticizers,Admixture,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0004,ML_MGCS4_003,Plasticizers,Chemical Admixture,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0004,ML_MGCS4_005,Super Pozzolona,Super Pozzolona,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0004,ML_MGCS4_002,Plasticizers,Air Entrained Admixture,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0004,ML_MGCS4_004,Super Plasticizer,Super Plasticizer,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0004,ML_MGCS4_006,Air entrained admixture,Foaming agent,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0006,ML_MGCS6_001,Bricks,Clay Bricks,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0006,ML_MGCS6_002,Bricks,Flyash Bricks,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0006,ML_MGCS6_004,Bricks,Common burnt clay F.P.S (non-modular),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0006,ML_MGCS6_003,Bricks,Bricks_230x115x75mm (terra cota),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0006,ML_MGCS6_005,Bricks,Common burnt clay F.P.S (modular),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0010,ML_MGCS10_001,Plywood Formwork,12mm thick ply,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0010,ML_MGCS10_002,Plywood Formwork,12mm thick water proof ply,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_003,Reinforcement Bars,M.S ( Epoxy Coated TMT),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_004,Reinforcement Bars,M.S ( Galvanized TMT),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_006,Reinforcement Bars,Reinforcement Bars M.S ( TMT) round bars -Fe 415 D,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_001,Reinforcement Bars,M.S ( TMT) round bars,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_002,Reinforcement Bars,M.S ( Plain) round bars,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_005,Reinforcement Bars,Reinforcement Bars M.S ( TMT) round bars -Fe 415,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_009,Reinforcement Bars,Reinforcement Bars M.S ( TMT) round bars - Fe 600,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_007,Reinforcement Bars,Reinforcement Bars M.S ( TMT) round bars - Fe 500,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0013,ML_MGCS13_008,Reinforcement Bars,Reinforcement Bars M.S ( TMT) round bars - Fe 500D,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0014,ML_MGCS14_001,Binding Wire,"Binding Wire -Plain, 16 Gauge",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0014,ML_MGCS14_004,Binding Wire,"Binding Wire -Anealed, 18 Gauge",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0014,ML_MGCS14_002,Binding Wire,"Binding Wire -Plain, 18 Gauge",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0014,ML_MGCS14_003,Binding Wire,"Binding Wire -Anealed, 16 Gauge",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0014,ML_MGCS14_005,Binding Wire,"Binding Wire - Galvanised, 16 Gauge",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0015,ML_MGCS15_002,Cover Blocks,Cover Blocks-PVC 40 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0015,ML_MGCS15_003,Cover Blocks,Cover Blocks-PVC 50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0015,ML_MGCS15_004,Cover Blocks,Cover Blocks-PVC 75 mmthick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0015,ML_MGCS15_001,Cover Blocks,Cover Blocks-PVC 25 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0015,ML_MGCS15_005,Cover Blocks,Cover Blocks-Cement Mortar 25 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0015,ML_MGCS15_006,Cover Blocks,Cover Blocks-Cement Mortar 40 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0015,ML_MGCS15_007,Cover Blocks,Cover Blocks-Cement Mortar 50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0015,ML_MGCS15_008,Cover Blocks,Cover Blocks-Cement Mortar 75 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0016,ML_MGCS16_001,Filling material,Imported Soil,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0016,ML_MGCS2_007,Filling material,Moorum,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0017,ML_MGCS17_001,Pile Shoe,Pile Shoe,Alias,DESCRIPTION,BAGS,18,0
+MG_CS00175,ML_MGCS175_001,Sheet Metal panel,Non Insulated Galvalume sheet of 0.35 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS00175,ML_MGCS175_005,Sheet Metal panel,Non Insulated Galvanised sheet of 0.60 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS00175,ML_MGCS175_003,Sheet Metal panel,Non Insulated Galvalume sheet of 0.60 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS00175,ML_MGCS175_004,Sheet Metal panel,Non Insulated Galvanised sheet of 0.40 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS00175,ML_MGCS175_002,Sheet Metal panel,Non Insulated Galvalume sheet of 0.40 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_003,Non Pressure Pipes,RCC Pipes -NP2 Class 200 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_028,Non Pressure Pipes,RCC Pipes -NP3 Class 600 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_004,Non Pressure Pipes,RCC Pipes -NP2 Class 250 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_030,Non Pressure Pipes,RCC Pipes -NP3 Class 800 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_041,Non Pressure Pipes,RCC Pipes -NP4 Class 250 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_005,Non Pressure Pipes,RCC Pipes -NP2 Class 300 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_018,Non Pressure Pipes,RCC Pipes -NP2 Class 2000 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_020,Non Pressure Pipes,RCC Pipes -NP3 Class 150 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_006,Non Pressure Pipes,RCC Pipes -NP2 Class 350 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_031,Non Pressure Pipes,RCC Pipes -NP3 Class 750 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_007,Non Pressure Pipes,RCC Pipes -NP2 Class 400 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_008,Non Pressure Pipes,RCC Pipes -NP2 Class 450 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_034,Non Pressure Pipes,RCC Pipes -NP3 Class 1100 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_009,Non Pressure Pipes,RCC Pipes -NP2 Class 500 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_011,Non Pressure Pipes,RCC Pipes -NP2 Class 700 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_013,Non Pressure Pipes,RCC Pipes -NP2 Class 900 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_024,Non Pressure Pipes,RCC Pipes -NP3 Class 350 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_026,Non Pressure Pipes,RCC Pipes -NP3 Class 450 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_017,Non Pressure Pipes,RCC Pipes -NP2 Class 1500 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_019,Non Pressure Pipes,RCC Pipes -NP3 Class 100 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_038,Non Pressure Pipes,RCC Pipes -NP4 Class 100 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_021,Non Pressure Pipes,RCC Pipes -NP3 Class 200 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_039,Non Pressure Pipes,RCC Pipes -NP4 Class 150 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_043,Non Pressure Pipes,RCC Pipes -NP4 Class 350 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_032,Non Pressure Pipes,RCC Pipes -NP3 Class 900 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_033,Non Pressure Pipes,RCC Pipes -NP3 Class 1000 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_035,Non Pressure Pipes,RCC Pipes -NP3 Class 1200 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_044,Non Pressure Pipes,RCC Pipes -NP4 Class 400 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_047,Non Pressure Pipes,RCC Pipes -NP4 Class 600 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_027,Non Pressure Pipes,RCC Pipes -NP3 Class 500 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_029,Non Pressure Pipes,RCC Pipes -NP3 Class 700 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_036,Non Pressure Pipes,RCC Pipes -NP3 Class 1500 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_054,Non Pressure Pipes,RCC Pipes -NP4 Class 1500 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_055,Non Pressure Pipes,RCC Pipes -NP4 Class 2000 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_001,Non Pressure Pipes,RCC Pipes -NP2 Class 100 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_012,Non Pressure Pipes,RCC Pipes -NP2 Class 800 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_015,Non Pressure Pipes,RCC Pipes -NP2 Class 1100 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_037,Non Pressure Pipes,RCC Pipes -NP3 Class 2000 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_040,Non Pressure Pipes,RCC Pipes -NP4 Class 200 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_042,Non Pressure Pipes,RCC Pipes -NP4 Class 300 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_045,Non Pressure Pipes,RCC Pipes -NP4 Class 450 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_049,Non Pressure Pipes,RCC Pipes -NP4 Class 800 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_051,Non Pressure Pipes,RCC Pipes -NP4 Class 1000 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_053,Non Pressure Pipes,RCC Pipes -NP4 Class 1200 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_002,Non Pressure Pipes,RCC Pipes -NP2 Class 150 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_014,Non Pressure Pipes,RCC Pipes -NP2 Class 1000 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_016,Non Pressure Pipes,RCC Pipes -NP2 Class 1200 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_022,Non Pressure Pipes,RCC Pipes -NP3 Class 250 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_023,Non Pressure Pipes,RCC Pipes -NP3 Class 300 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_025,Non Pressure Pipes,RCC Pipes -NP3 Class 400 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_010,Non Pressure Pipes,RCC Pipes -NP2 Class 600 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_046,Non Pressure Pipes,RCC Pipes -NP4 Class 500 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_048,Non Pressure Pipes,RCC Pipes -NP4 Class 700 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_050,Non Pressure Pipes,RCC Pipes -NP4 Class 900 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0020,ML_MGCS20_052,Non Pressure Pipes,RCC Pipes -NP4 Class 1100 mm Diameter,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_050,Glazing,Performance Toughened glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_060,Glazing,High Performance plain glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_051,Glazing,Performance Toughened glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_058,Glazing,Performance DGU glass with toggle 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_059,Glazing,Performance DGU glass with toggle 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_084,Glazing,Ultra Performance DGU glass 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_072,Glazing,High Performance DGU glass with toggle 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_074,Glazing,Ultra Performance plain glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_095,Glazing,Premium Toughened glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_096,Glazing,Premium DGU glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_115,Glazing,Premium Ultima DGU glass with toggle 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_003,Partition Glazing/panelling,16mm thick tempered Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_116,Glazing,Laminated glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_007,Partition Glazing/panelling,12mm thick Polycarbonate sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_016,Partition Glazing/panelling,Toughened Glass - 6mm thk,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_098,Glazing,Premium DGU glass 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_009,Partition Glazing/panelling,10mm thick tempered glass_Amethyst slight blue transparent coating,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_032,Glazing,Popular Toughened glass 5 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_101,Glazing,Premium DGU glass with toggle 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_103,Glazing,Premium Ultima plain glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_039,Glazing,Popular DGU glass 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_105,Glazing,Premium Ultima plain glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_041,Glazing,Popular DGU glass with toggle 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_106,Glazing,Premium Ultima Toughened glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_043,Glazing,Performance plain glass 4 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_055,Glazing,Performance DGU glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_077,Glazing,Ultra Performance plain glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_013,Partition Glazing/panelling,10mm thick tempered glass_Sandblasting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_022,Glazing,Standard DGU glass 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_122,Glazing,8mm thick reflective mirrored glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_123,Glazing,12mm thick reflective mirrored glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_049,Glazing,Performance Toughened glass 5 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_025,Glazing,Standard DGU glass with toggle 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_042,Glazing,Popular DGU glass with toggle 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_078,Glazing,Ultra Performance Toughened glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_065,Glazing,High Performance Toughened glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_067,Glazing,High Performance Toughened glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_082,Glazing,Ultra Performance DGU glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_086,Glazing,Ultra Performance DGU glass with toggle 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_088,Glazing,Premium plain glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_079,Glazing,Ultra Performance Toughened glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_090,Glazing,Premium plain glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_091,Glazing,Premium plain glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_110,Glazing,Premium Ultima DGU glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_001,Partition Glazing/panelling,10mm thick tempered Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_093,Glazing,Premium Toughened glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_114,Glazing,Premium Ultima DGU glass with toggle 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_002,Partition Glazing/panelling,12mm thick tempered Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_097,Glazing,Premium DGU glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_120,Glazing,4mm thick reflective mirrored glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_099,Glazing,Premium DGU glass with toggle 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_015,Partition Glazing/panelling,Toughened Glass - 5mm thk,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_100,Glazing,Premium DGU glass with toggle 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_037,Glazing,Popular DGU glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_107,Glazing,Premium Ultima Toughened glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_108,Glazing,Premium Ultima Toughened glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_109,Glazing,Premium Ultima Toughened glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_048,Glazing,Performance plain glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_113,Glazing,Premium Ultima DGU glass with toggle 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_075,Glazing,Ultra Performance plain glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_038,Glazing,Popular DGU glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_044,Glazing,Performance plain glass 5 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_056,Glazing,Performance DGU glass 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_080,Glazing,Ultra Performance Toughened glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_012,Partition Glazing/panelling,10mm thick tempered glass_Metallic colour coating,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_017,Partition Glazing/panelling,Toughened Glass - 8mm thk,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_019,Partition Glazing/panelling,Leaded glass_12.5mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_111,Glazing,Premium Ultima DGU glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_020,Partition Glazing/panelling,Leaded glass_15mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_117,Glazing,Laminated glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_011,Partition Glazing/panelling,10mm thick tempered glass_Opaque colour coating,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_121,Glazing,6mm thick reflective mirrored glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_046,Glazing,Performance plain glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_021,Partition Glazing/panelling,Leaded glass_19mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_034,Glazing,Popular Toughened glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_026,Glazing,Popular plain glass 4 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_027,Glazing,Popular plain glass 5 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_053,Glazing,Performance Toughened glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_045,Glazing,Performance plain glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_047,Glazing,Performance plain glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_054,Glazing,Performance DGU glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_029,Glazing,Popular plain glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_063,Glazing,High Performance plain glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_052,Glazing,Performance Toughened glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_030,Glazing,Popular plain glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_064,Glazing,High Performance Toughened glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_066,Glazing,High Performance Toughened glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_057,Glazing,Performance DGU glass with toggle 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_031,Glazing,Popular plain glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_033,Glazing,Popular Toughened glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_071,Glazing,High Performance DGU glass with toggle 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_035,Glazing,Popular Toughened glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_036,Glazing,Popular Toughened glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_073,Glazing,High Performance DGU glass with toggle 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_076,Glazing,Ultra Performance plain glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_061,Glazing,High Performance plain glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_040,Glazing,Popular DGU glass with toggle 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_119,Glazing,Laminated glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_062,Glazing,High Performance plain glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_069,Glazing,High Performance DGU glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_070,Glazing,High Performance DGU glass 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_004,Partition Glazing/panelling,19mm thick tempered Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_005,Partition Glazing/panelling,8mm thick Polycarbonate sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_081,Glazing,Ultra Performance Toughened glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_006,Partition Glazing/panelling,10mm thick Polycarbonate sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_083,Glazing,Ultra Performance DGU glass 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_008,Partition Glazing/panelling,10mm thick toughened glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_010,Partition Glazing/panelling,10mm thick tempered glass_Opaque enameled frit,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_085,Glazing,Ultra Performance DGU glass with toggle 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_087,Glazing,Ultra Performance DGU glass with toggle 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_014,Partition Glazing/panelling,Toughened Glass - 4mm thk,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_089,Glazing,Premium plain glass 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_092,Glazing,Premium Toughened glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_104,Glazing,Premium Ultima plain glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_018,Partition Glazing/panelling,Toughened Glass - 12mm thk,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_023,Glazing,Standard DGU glass with toggle 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_024,Glazing,Standard DGU glass with toggle 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_028,Glazing,Popular plain glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_068,Glazing,High Performance DGU glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_094,Glazing,Premium Toughened glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_102,Glazing,Premium Ultima plain glass 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_112,Glazing,Premium Ultima DGU glass 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0021,ML_MGCS21_118,Glazing,Laminated glass 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0022,ML_MGCS22_004,Solar contol films,High Reflective,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0022,ML_MGCS22_007,Solar contol films,Designer Film,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0022,ML_MGCS22_001,Solar contol films,100% Opaque,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0022,ML_MGCS22_003,Solar contol films,25% Opaque,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0022,ML_MGCS22_005,Solar contol films,Medium Reflective,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0022,ML_MGCS22_002,Solar contol films,50% Opaque,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0022,ML_MGCS22_006,Solar contol films,Low Reflective,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_005,Mirrored plastic,2mm thick polystyrene mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_006,Mirrored plastic,6mm thick polystyrene mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_004,Mirrored plastic,1.5mm thick polystyrene mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_009,Mirrored plastic,12mm thick polystyrene mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_002,Mirrored plastic,4mm thick acrylic mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_010,Mirrored plastic,16mm thick polystyrene mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_001,Mirrored plastic,3mm thick acrylic mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_007,Mirrored plastic,8mm thick polystyrene mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_008,Mirrored plastic,10mm thick polystyrene mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0024,ML_MGCS24_003,Mirrored plastic,5mm thick acrylic mirror sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_010,Glass block/brick,Thick faced glass block_100mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_012,Glass block/brick,Fire rated glass block_100mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_015,Glass block/brick,Ballistics Resistant Glass (Bulletproof glass),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_014,Glass block/brick,Security Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_004,Glass block/brick,Fire rated glass block_30mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_011,Glass block/brick,Solid galss block_100mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_001,Glass block/brick,Hollow glass block_30mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_002,Glass block/brick,Thick faced glass block_30mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_005,Glass block/brick,Hollow glass block_80mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_013,Glass block/brick,Radiation resistant Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_003,Glass block/brick,Solid galss block_30mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_006,Glass block/brick,Thick faced glass block_80mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_007,Glass block/brick,Solid galss block_80mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_008,Glass block/brick,Fire rated glass block_80mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0025,ML_MGCS25_009,Glass block/brick,Hollow glass block_100mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_017,Steel,MS Angle 8' ht (40X40X5 mm),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_019,Steel,65mm dia MS-Pipe (7.9kg/m),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_002,Steel Framing,Colled Rolled Steel section,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_013,Metal Railings,ERW -  Pipes & Tubes,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_018,Helical Steel Plate,MS Helical steel Plate (3kg),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_001,Louvered Equipment Enclosure,Mild Steel Sections,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_003,Steel Framing,Built up Steel Section,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_005,Metal Floor Plate,MS Chaquered Plates,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_014,Metal Floor Plate,Aluminium plates,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_009,Metal Railings,GI -  Pipes & Tubes,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_011,Sheet Piling,MS Sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_004,Metal Floor Plate,MS Plates,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_006,Steel,Structural Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_010,Sheet Piling,MS Hot rolled sections,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_007,Steel,"MS -  Beams,  Channels, Plates, Chaquered Plates, Pipes & Tubes, Angles, Flats etc.",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_012,Steel,"I - Sections, Pipes, Channels etc.",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_016,Metal Floor Plate,Stainless steel_316 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_008,Metal Railings,MS -  Pipes & Tubes,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_015,Metal Floor Plate,Stainless steel_304 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_020,Steel,80mm dia MS-Pipe (10kg/m),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0027,ML_MGCS27_021,Steel,100mm dia MS-Pipe (14.4kg/m),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0028,ML_MGCS28_001,Louvered Equipment Enclosure,Aluminium setions - Powder Coated Proprietory Louvered Enclosure,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0029,ML_MGCS29_004,Composite Roof panel,1.20 mm thick sheet with 48 kg/m3 and 50 mm thick insulation,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0029,ML_MGCS29_001,Acoustical Metal Decking,0.6 mm thick sheet with 16 kg/m3 and 50 mm thick insulation,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0029,ML_MGCS29_002,Composite Roof panel,0.8 mm thick sheet with 24 kg/m3 and 50 mm thick insulation,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0029,ML_MGCS29_003,Composite Roof panel,1.00 mm thick sheet with 32 kg/m3 and 50 mm thick insulation,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0033,ML_MGCS33_002,Water Proofing Product,Crystalline waterproofing admixtures,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0033,ML_MGCS33_001,Water Proofing Product,Water Proofing Material,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0034,ML_MGCS34_002,Stone,Dholpur stone_40mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0034,ML_MGCS34_004,Stone,Kota stone_25mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0034,ML_MGCS34_003,Stone,Dholpur stone_75mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0034,ML_MGCS34_005,Stone,Granite,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0034,ML_MGCS34_001,Stone,Kota Stone,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0036,ML_MGCS36_003,Oil,Lineseed oil,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0036,ML_MGCS36_005,Oil,Terpentine Oil,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0036,ML_MGCS36_002,Oil,Spirit,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0036,ML_MGCS36_001,Oil,Kerosene oil,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0036,ML_MGCS36_004,Oil,Shuttering oil,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0041,ML_MGCS41_001,Coupler,Coupler 08mmdia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0041,ML_MGCS41_004,Coupler,Coupler 16mmdia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0041,ML_MGCS41_003,Coupler,Coupler 12mmdia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0041,ML_MGCS41_007,Coupler,Coupler 32mmdia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0041,ML_MGCS41_006,Coupler,Coupler 25mmdia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0041,ML_MGCS41_002,Coupler,Coupler 10mmdia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0041,ML_MGCS41_005,Coupler,Coupler 20mmdia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0042,ML_MGCS42_001,Grout,Grouting Material,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0043,ML_MGCS43_001,Tendons,"Tendons 5"" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0043,ML_MGCS43_002,Tendons,"Tendons 6"" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0044,ML_MGCS44_002,Strand,Strands 12 nos. 7mm dia wires,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0044,ML_MGCS44_003,Strand,Strands 12 nos. 8mm dia wires,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0044,ML_MGCS44_001,Strand,Strands 12 nos. 5mm dia wires,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0044,ML_MGCS44_004,Strand,13mm dia wires,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0045,ML_MGCS45_001,Wedge,Wedges,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0046,ML_MGCS46_001,Endplug,End Plugs,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0048,ML_MGCS48_001,Sleeves,PVC Sleeves,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0048,ML_MGCS48_002,Steel,"MS -  Beams,  Channels, Plates, Chaquered Plates, Pipes & Tubes, Angles, Flats etc.",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0049,ML_MGCS49_001,Welded wire fabric,Welded wire fabric 4 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0049,ML_MGCS49_002,Welded wire fabric,Welded wire fabric 5 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_004,Preast Concrete Bollard,300x300x1760mm_M-30 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_006,Preast Concrete Bollard,150mm diax950mm_M-30 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_007,Preast Concrete Bollard,300mm diax918mm_M-30 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_008,Preast Concrete Bollard,75mm diax950mm_M-30 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_003,Preast Concrete Bollard,600mm Dia - 1220mm long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_005,Preast Concrete Bollard,300x300x600mm_M-30 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_010,Preast Concrete Bollard,780x430x350mm_M-30 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_002,Preast Concrete Bollard,450mm Dia - 1220mm long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_001,Preast Concrete Bollard,375mm Dia- 1220mm long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_009,Preast Concrete Bollard,150mm diax918mm_M-30 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0052,ML_MGCS52_011,Preast Concrete Bollard,880x430x450mm_M-30 grade,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0054,ML_MGCS54_001,Precast Concrete Splash Block,"30""x12""x3"" THk.",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0054,ML_MGCS54_002,Precast Concrete Splash Block,"20""x12""x3"" thk.",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0056,ML_MGCS56_003,mordant solution,Copper chloride,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0056,ML_MGCS56_004,mordant solution,Copper nitrate,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0056,ML_MGCS56_005,mordant solution,Ammonium chloride,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0056,ML_MGCS56_002,mordant solution,Hydrochlorinc Acid,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0056,ML_MGCS56_001,mordant solution,Copper acetate,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0059,ML_MGCS59_002,Polythene sheet,High Density Polyethylene Sheet 3mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0059,ML_MGCS59_001,Polythene sheet,High Density Polyethylene Sheet 2mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0059,ML_MGCS59_003,Polythene sheet,High Density Polyethylene Sheet 4mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0059,ML_MGCS59_004,Polythene sheet,High Density Polyethylene Sheet 6mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0059,ML_MGCS59_005,Polythene sheet,Vapour Barrier membrane,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_025,Insulator,Expanded Polystyrene Insulation 38Kg/m11,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_010,Insulator,"Extruded polysterene Board 75mm thick, Density 32-35Kg/m3",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_006,Insulator,Polystyrene inserts,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_016,Insulator,Expanded Polystyrene Insulation 12Kg/m3,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_008,Insulator,Plastic Fibre,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_018,Insulator,Expanded Polystyrene Insulation 19Kg/m6,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_021,Insulator,Expanded Polystyrene Insulation 25Kg/m4,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_011,Insulator,"Extruded polysterene Board 100mm thick, Density 32-35Kg/m3",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_022,Insulator,Expanded Polystyrene Insulation 26Kg/m9,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_012,Insulator,"Extruded polysterene Board 100mm thick, Density 40Kg/m3",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_020,Insulator,Expanded Polystyrene Insulation 22Kg/m8,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_024,Insulator,Expanded Polystyrene Insulation 35Kg/m11,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_004,Insulator,Fiber Glass Board,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_019,Insulator,Expanded Polystyrene Insulation 21Kg/m7,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_023,Insulator,Expanded Polystyrene Insulation 29Kg/m10,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_001,Insulator,"Extruded polysterene Board 50mm  thick, Density 32-35Kg/m3",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_003,Insulator,Rock wool Sandwitch panel Board,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_014,Insulator,"Extruded polysterene Board 50mm  thick, Density 40Kg/m3",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_026,Insulator,Expanded Polystyrene Insulation 48Kg/m11,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_005,Insulator,Calcium silicate board-8mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_002,Insulator,"Extruded polysterene Board 25mm thick, Density 32-35Kg/m3",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_007,Insulator,Polyisocyanurate insulation board,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_013,Insulator,"Extruded polysterene Board 75mm thick, Density 40Kg/m3",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_017,Insulator,Expanded Polystyrene Insulation 18Kg/m5,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_009,Insulator,Cotton Wool,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0060,ML_MGCS60_015,Insulator,"Extruded polysterene Board 25mm thick,Density 40Kg/m3",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0066,ML_MGCS66_002,Backer Rod,Backer Rod Closed Cell,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0066,ML_MGCS66_001,Backer Rod,Backer Rod Open Cell,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0067,ML_MGCS67_001,Sealent,Silicon Sealant,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0067,ML_MGCS67_002,Sealent,Polysulphide sealant,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0067,ML_MGCS174_003,Sealant,Weather sealant DC789,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0069,ML_MGCS69_001,Compaction Grouting,Cellular Concrete,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0070,ML_MGCS70_002,Hiring charge of Electirc Pump Dewatering including POL component,Electric Pump- Shallow Well Point System,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0070,ML_MGCS70_003,Hiring charge of Electirc Pump Dewatering including POL component,Electric Pump- Deep Well Point system,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0070,ML_MGCS70_001,Hiring charge of Electirc Pump Dewatering including POL component,Sump & Pump Electric,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0070,ML_MGCS70_004,Hiring charge of Electirc Pump Dewatering including POL component,Electric Pump- Eductor System,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0071,ML_MGCS71_003,Hiring charge of Diesel Pump Dewatering including POL component,Diesel Pump- Deep Well Point system,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0071,ML_MGCS71_002,Hiring charge of Diesel Pump Dewatering including POL component,Diesel Pump- Shallow Well Point System,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0071,ML_MGCS71_001,Hiring charge of Diesel Pump Dewatering including POL component,Sump & Pump Diesel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0071,ML_MGCS71_004,Hiring charge of Diesel Pump Dewatering including POL component,Diesel Pump- Eductor System,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0072,ML_MGCS72_001,Hiring charge of Pneumatic  Pump Dewatering including POL component,Sump & Pump (Pneumatic),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0072,ML_MGCS72_004,Hiring charge of Pneumatic  Pump Dewatering including POL component,Pneumatic Pump- Eductor System,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0072,ML_MGCS72_002,Hiring charge of Pneumatic  Pump Dewatering including POL component,Pneumatic Pump- Shallow Well Point System,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0072,ML_MGCS72_003,Hiring charge of Pneumatic  Pump Dewatering including POL component,Pneumatic Pump- Deep Well Point system,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0073,ML_MGCS73_001,Glass Fibre Faced Panel,Glass-Fiber-Reinforced Cementitious Panels - 3.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0073,ML_MGCS73_002,Glass Fibre Faced Panel,Glass-Fiber-Reinforced Cementitious Panels - 4.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0073,ML_MGCS73_004,Glass Fibre Faced Panel,Glass-Fiber-Reinforced Cementitious Panels - 6.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0073,ML_MGCS73_005,Glass Fibre Faced Panel,Glass-Fiber-Reinforced Cementitious Panels - 8.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0073,ML_MGCS73_006,Glass Fibre Faced Panel,Glass-Fiber-Reinforced Cementitious Panels - 10.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0073,ML_MGCS73_003,Glass Fibre Faced Panel,Glass-Fiber-Reinforced Cementitious Panels - 5.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_002,Insulated Metal Panel,"Insulated Panel, Profile A, Core Thickness 40 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_001,Insulated Metal Panel,"Insulated Panel, Profile A, Core Thickness 30 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_005,Insulated Metal Panel,"Insulated Panel, Profile A, Core Thickness 80 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_003,Insulated Metal Panel,"Insulated Panel, Profile A, Core Thickness 50 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_008,Insulated Metal Panel,"Insulated Panel, Profile B, Core Thickness 75 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_010,Insulated Metal Panel,"Insulated Panel, Profile C, Core Thickness 30 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_007,Insulated Metal Panel,"Insulated Panel, Profile B, Core Thickness 40 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_012,Insulated Metal Panel,"Insulated Panel, Profile C, Core Thickness 50 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_004,Insulated Metal Panel,"Insulated Panel, Profile A, Core Thickness 60 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_006,Insulated Metal Panel,"Insulated Panel, Profile A, Core Thickness 100 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_011,Insulated Metal Panel,"Insulated Panel, Profile C, Core Thickness 40 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_009,Insulated Metal Panel,"Insulated Panel, Profile B, Core Thickness 100 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_016,Insulated Metal Panel,"Insulated Panel, Profile D, Core Thickness 50 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_017,Insulated Metal Panel,"Insulated Panel, Profile D, Core Thickness 75 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_020,Insulated Metal Panel,"Insulated Panel, Profile E, Core Thickness 100 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_014,Insulated Metal Panel,"Insulated Panel, Profile C, Core Thickness 80 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_019,Insulated Metal Panel,"Insulated Panel, Profile E, Core Thickness 50 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_013,Insulated Metal Panel,"Insulated Panel, Profile C, Core Thickness 60 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_015,Insulated Metal Panel,"Insulated Panel, Profile C, Core Thickness 100 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0075,ML_MGCS75_018,Insulated Metal Panel,"Insulated Panel, Profile E, Core Thickness 40 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0076,ML_MGCS76_001,Sheet Metal Flashing and Trim,Non Insulated Galvalume sheet of 0.35 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0076,ML_MGCS76_002,Sheet Metal Flashing and Trim,Non Insulated Galvalume sheet of 0.40 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0076,ML_MGCS76_003,Sheet Metal Flashing and Trim,Non Insulated Galvalume sheet of 0.60 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0076,ML_MGCS76_004,Sheet Metal Flashing and Trim,Non Insulated Galvanised sheet of 0.40 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0076,ML_MGCS76_005,Sheet Metal Flashing and Trim,Non Insulated Galvanised sheet of 0.60 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0079,ML_MGCS79_004,Mineral Fibre Faced Panel,Mineral-Fiber-Reinforced Cementitious Panels - 6.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0079,ML_MGCS79_002,Mineral Fibre Faced Panel,Mineral-Fiber-Reinforced Cementitious Panels - 4.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0079,ML_MGCS79_001,Mineral Fibre Faced Panel,Mineral-Fiber-Reinforced Cementitious Panels - 3.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0079,ML_MGCS79_005,Mineral Fibre Faced Panel,Mineral-Fiber-Reinforced Cementitious Panels - 8.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0079,ML_MGCS79_003,Mineral Fibre Faced Panel,Mineral-Fiber-Reinforced Cementitious Panels - 5.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0079,ML_MGCS79_006,Mineral Fibre Faced Panel,Mineral-Fiber-Reinforced Cementitious Panels - 10.00 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0080,ML_MGCS80_001,Plastic Panel,"Plastic  Panel, Thickness 12 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0080,ML_MGCS80_003,Plastic Panel,"Plastic  Panel, Thickness 24 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0080,ML_MGCS80_002,Plastic Panel,"Plastic Panel, Thickness 18 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0080,ML_MGCS80_004,Plastic Panel,"Plastic  Panel, Thickness 30 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0081,ML_MGCS81_003,Solid Soffit Panels,Wood Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0081,ML_MGCS81_007,Solid Soffit Panels,Glass Fibre Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0081,ML_MGCS81_005,Solid Soffit Panels,Engineered Wood Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0081,ML_MGCS81_001,Solid Soffit Panels,Stainless Steel Soffit Panels,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0081,ML_MGCS81_002,Solid Soffit Panels,Vinyl Soffit Panels,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0081,ML_MGCS81_004,Solid Soffit Panels,Fiber Cement Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0081,ML_MGCS81_006,Solid Soffit Panels,Powder Coated Aluminum Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0081,ML_MGCS81_008,Solid Soffit Panels,Mineral Fibre Soffit Panels,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0082,ML_MGCS82_003,Vented or Perforated Soffit Panels,Perforated Fiber Cement Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0082,ML_MGCS82_005,Vented or Perforated Soffit Panels,Perforated Powder Coated Aluminum Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0082,ML_MGCS82_007,Vented or Perforated Soffit Panels,Perforated Mineral Fibre Soffit Panels,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0082,ML_MGCS82_004,Vented or Perforated Soffit Panels,Perforated Engineered Wood Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0082,ML_MGCS82_001,Vented or Perforated Soffit Panels,Perforated Steel Soffit Panels,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0082,ML_MGCS82_002,Vented or Perforated Soffit Panels,Perforated Vinyl Soffit Panels,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0082,ML_MGCS82_006,Vented or Perforated Soffit Panels,Perforated Glass Fibre Soffit Panel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_002,Relief Vent,"Twoway breathing, 11"" dia, 8"" high, aluminium body, 8 breathing holes, 2.8 cfm",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_007,Relief Vent,"Roof turbine vent - 20 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_005,Relief Vent,"Roof turbine vent - 16 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_008,Relief Vent,"Roof turbine vent - 24 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_011,Relief Vent,"Roof turbine vent - 48 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_001,Relief Vent,"Oneway vent, 11"" dia, 8"" high, aluminium body, 2.8 cfm - 8 vent hole",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_003,Relief Vent,"Roof turbine vent - 12 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_010,Relief Vent,"Roof turbine vent - 36 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_004,Relief Vent,"Roof turbine vent - 14 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_009,Relief Vent,"Roof turbine vent - 30 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0084,ML_MGCS84_006,Relief Vent,"Roof turbine vent - 18 "" dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0085,ML_MGCS85_005,Ridge Vent,"220 mm wide, 16 mm high - HDPE Body",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0085,ML_MGCS85_007,Ridge Vent,"280 mm wide, 16 mm high - HDPE Body",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0085,ML_MGCS85_003,Ridge Vent,"175 mm wide, 16 mm high - HDPE Body",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0085,ML_MGCS85_002,Ridge Vent,"90 mm wide, 25 mm high - HDPE Body",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0085,ML_MGCS85_006,Ridge Vent,"220 mm wide, 25 mm high - HDPE Body",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0085,ML_MGCS85_004,Ridge Vent,"175 mm wide, 25 mm high - HDPE Body",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0085,ML_MGCS85_008,Ridge Vent,"280 mm wide, 25 mm high - HDPE Body",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0085,ML_MGCS85_001,Ridge Vent,"90 mm wide, 16 mm high - HDPE Body",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_003,Anchor ; Steel bars,20 mm dia bolt,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_004,Anchor ; Steel bars,22 mm dia bolt,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_008,Anchor ; Steel bars,36 mm dia bolt,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_026,Anchor ; Steel bars,18 mm dia bolt of 15m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_021,Anchor ; Steel bars,25 mm dia bolt of 10m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_027,Anchor ; Steel bars,20 mm dia bolt of 15m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_002,Anchor ; Steel bars,18 mm dia bolt,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_017,Anchor ; Steel bars,16 mm dia bolt of 10m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_031,Anchor ; Steel bars,32 mm dia bolt of 15m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_005,Anchor ; Steel bars,25 mm dia bolt,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_032,Anchor ; Steel bars,36 mm dia bolt of 15m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_001,Anchor ; Steel bars,16 mm dia bolt,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_010,Anchor ; Steel bars,18 mm dia bolt of 5m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_012,Anchor ; Steel bars,22 mm dia bolt of 5m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_014,Anchor ; Steel bars,28 mm dia bolt of 5m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_020,Anchor ; Steel bars,22 mm dia bolt of 10m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_022,Anchor ; Steel bars,28 mm dia bolt of 10m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_025,Anchor ; Steel bars,16 mm dia bolt of 15m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_028,Anchor ; Steel bars,22 mm dia bolt of 15m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_030,Anchor ; Steel bars,28 mm dia bolt of 15m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_009,Anchor ; Steel bars,16 mm dia bolt of 5m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_011,Anchor ; Steel bars,20 mm dia bolt of 5m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_013,Anchor ; Steel bars,25 mm dia bolt of 5m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_015,Anchor ; Steel bars,32 mm dia bolt of 5m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_016,Anchor ; Steel bars,36 mm dia bolt of 5m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_019,Anchor ; Steel bars,20 mm dia bolt of 10m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_024,Anchor ; Steel bars,36 mm dia bolt of 10m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_006,Anchor ; Steel bars,28 mm dia bolt,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_007,Anchor ; Steel bars,32 mm dia bolt,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_018,Anchor ; Steel bars,18 mm dia bolt of 10m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_029,Anchor ; Steel bars,25 mm dia bolt of 15m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0087,ML_MGCS87_023,Anchor ; Steel bars,32 mm dia bolt of 10m length,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_004,Composite Roof panel,"Composite Roof Panel Profile A, 18 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_001,Composite Roof panel,"Composite Roof Panel Profile A, 8 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_011,Composite Roof panel,"Fibre Cement Roof panel Profile B, 25 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_008,Composite Roof panel,"Fibre Cement Roof panel Profile B, 11 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_005,Composite Roof panel,"Composite Roof Panel Profile A, 25 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_009,Composite Roof panel,"Fibre Cement Roof panel Profile B, 15 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_007,Composite Roof panel,"Fibre Cement Roof panel Profile B, 8 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_012,Composite Roof panel,"Fibre Cement Roof panel Profile B, 30 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_003,Composite Roof panel,"Composite Roof Panel Profile A, 15 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_002,Composite Roof panel,"Composite Roof Panel Profile A, 11 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_006,Composite Roof panel,"Composite Roof Panel Profile A, 30 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0088,ML_MGCS88_010,Composite Roof panel,"Fibre Cement Roof panel Profile B, 18 mm thick",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_003,Wood  Composite  Panel,Wood Composite wall panel - 8 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_005,Wood  Composite  Panel,Wood Composite wall panel - 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_009,Wood  Composite  Panel,Wood Composite wall panel - 20 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_010,Wood  Composite  Panel,Wood Composite wall panel - 22 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_002,Wood  Composite  Panel,Wood Composite wall panel - 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_001,Wood  Composite  Panel,Wood Composite wall panel - 3 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_004,Wood  Composite  Panel,Wood Composite wall panel - 10 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_007,Wood  Composite  Panel,Wood Composite wall panel - 16 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_008,Wood  Composite  Panel,Wood Composite wall panel - 18 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0090,ML_MGCS90_006,Wood  Composite  Panel,Wood Composite wall panel - 14 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0091,ML_MGCS91_002,Fibre Cement Composite   Panel,Fibre Cement Panel - 12 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0091,ML_MGCS91_001,Fibre Cement Composite   Panel,Fibre Cement Panel - 9 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0092,ML_MGCS92_003,Aluminium Composite  Panel,Aluminum Composite Panel - 5 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0092,ML_MGCS92_004,Aluminium Composite  Panel,Aluminum Composite Panel - 6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0092,ML_MGCS92_001,Aluminium Composite  Panel,Aluminum Composite Panel - 3 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0092,ML_MGCS92_002,Aluminium Composite  Panel,Aluminum Composite Panel - 4 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0093,ML_MGCS94_001,Standing Seam Sheet Metal Roofing - Exposed type,Exposed Fastening Roofing System with overall profile depth of 25 mm in galvalume pre coated sheet -Standing Seam Sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0093,ML_MGCS93_002,Standing Seam Sheet Metal Roofing - Concealed type,Concealed Fastening Roofing System with overall profile depth of 38 mm in galvalume pre coated sheet -Standing Seam Sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0093,ML_MGCS93_001,Standing Seam Sheet Metal Roofing - Concealed type,Concealed Fastening Roofing System with overall profile depth of 25 mm in galvalume pre coated sheet -Standing Seam Sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0093,ML_MGCS94_002,Standing Seam Sheet Metal Roofing  - Exposed type,Exposed Fastening Roofing System with overall profile depth of 38 mm in galvalume pre coated sheet -Standing Seam Sheet,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0095,ML_MGCS95_001,Batten Seam Sheet Metal Roofing - Concealed type,Concealed Fastening Roofing System 25 mm thick -Batten Seam Sheet - 0.50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0095,ML_MGCS96_001,Batten Seam Sheet Metal Roofing  - Exposed type,Exposed Fastening Roofing System 25 mm thick -Batten Seam Sheet  - 0.50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0095,ML_MGCS95_002,Batten Seam Sheet Metal Roofing - Concealed type,Concealed Fastening Roofing System 38 mm thick - Batten Seam Sheet - 0.50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0095,ML_MGCS96_002,Batten Seam Sheet Metal Roofing  - Exposed type,Exposed Fastening Roofing System 38 mm thick -Batten Seam Sheet  - 0.50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0097,ML_MGCS97_002,Flat Seam Sheet Metal Roofing  - Exposed type,Exposed Fastening Roofing System -Flat Seam Sheet  - 0.50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0097,ML_MGCS97_001,Flat Seam Sheet Metal Roofing - Concealed type,Concealed Fastening Roofing System -Flat Seam Sheet  - 0.50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0098,ML_MGCS98_007,Loose Fill Insulation,Perlite (R 19 ),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0098,ML_MGCS98_005,Loose Fill Insulation,Mineral wool (R 19 ),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0098,ML_MGCS98_002,Loose Fill Insulation,Fiberglass (R 19 ),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0098,ML_MGCS98_001,Loose Fill Insulation,Cellulose (R 19 ),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0098,ML_MGCS98_003,Loose Fill Insulation,Cotton (R 19 ),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0098,ML_MGCS98_006,Loose Fill Insulation,Vermiculite (R 19 ),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0098,ML_MGCS98_004,Loose Fill Insulation,Blown in batts (R 19 ),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0099,ML_MGCS99_002,Foamed in Place Insulation,Fiberglass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0099,ML_MGCS99_003,Foamed in Place Insulation,Polyurethane,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0099,ML_MGCS99_001,Foamed in Place Insulation,Cellulose,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_007,Stone Masonry,Limestone_Angular flat,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_009,Stone Masonry,marble_Angular flat,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_002,Stone Masonry,Through and bond stone,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_005,Stone Masonry,Red sand stone _rounded,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_006,Stone Masonry,White sand stone_rounded,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_011,Stone Masonry,Red sand stone _slab,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_004,Stone Masonry,White sand stone,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_001,Stone Masonry,Stone,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_003,Stone Masonry,Red sand stone,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_008,Stone Masonry,Granite_Angular flat,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_012,Stone Masonry,White sand stone_slab,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0100,ML_MGCS100_010,Stone Masonry,Slate_Angular flat,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0101,ML_MGCS101_001,Architectural concrete unit maonry,Full split face_200mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0101,ML_MGCS101_003,Architectural concrete unit maonry,Split edge_200mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0101,ML_MGCS101_005,Architectural concrete unit maonry,Single score_200mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0101,ML_MGCS101_006,Architectural concrete unit maonry,Terrazzo block_200mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0101,ML_MGCS101_002,Architectural concrete unit maonry,Half split face_100mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0101,ML_MGCS101_004,Architectural concrete unit maonry,Four-rib split face_200mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0103,ML_MGCS103_004,Interlocking concrete unit masonry,Concrete Units_1200x600x450mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0103,ML_MGCS103_002,Interlocking concrete unit masonry,Concrete Units_300x100x100mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0103,ML_MGCS103_001,Interlocking concrete unit masonry,Concrete Units_300x150x100mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0103,ML_MGCS103_003,Interlocking concrete unit masonry,Concrete Units_600x600x450mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0103,ML_MGCS103_005,Interlocking concrete unit masonry,Concrete Units_1800x600x450mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_013,Pavers,200X200X40 CC Pavers,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_011,Pavers,Interlocking CC Paver M-35 grade 60mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_005,Pavers,Interlocking CC Paver M-40 grade 60mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_001,Pavers,Pavers Blocks,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_006,Pavers,Interlocking CC Paver M-40 grade 80mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_003,Pavers,Interlocking CC Paver M-30 grade 80mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_007,Pavers,Interlocking CC Paver M-40 grade 100mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_008,Pavers,Interlocking CC Paver M-50 grade 60mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_010,Pavers,Interlocking CC Paver M-50 grade 100mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_012,Pavers,Interlocking CC Paver M-35 grade 80mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_002,Pavers,Interlocking CC Paver M-30 grade 60mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_009,Pavers,Interlocking CC Paver M-50 grade 80mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0104,ML_MGCS104_004,Pavers,Interlocking CC Paver M-30 grade 100mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0106,ML_MGCS106_001,Pressure Grouting Soil Stabilization - Chemical,Silicate,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0106,ML_MGCS106_002,Pressure Grouting Soil Stabilization - Chemical,Lignochromes,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0106,ML_MGCS106_006,Pressure Grouting Soil Stabilization - Chemical,Polyurathane,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0106,ML_MGCS106_004,Pressure Grouting Soil Stabilization - Chemical,Acrylic Resin,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0106,ML_MGCS106_005,Pressure Grouting Soil Stabilization - Chemical,Amino Plast,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0106,ML_MGCS106_003,Pressure Grouting Soil Stabilization - Chemical,Phenolic Resin,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0107,ML_MGCS107_001,Sheet Piling,2nd Class Hardwood,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0110,ML_MGCS2_002,Filling,Fine sand,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0110,ML_MGCS2_001,Filling,Coarse sand,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0110,ML_MGCS2_004,Filling,Stone dust,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0111,ML_MGCS111_005,Sheet Piling,"M 30, 100 mm thick Precast Concrete Panel",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0111,ML_MGCS111_008,Sheet Piling,"M 30, 300 mm thick Precast Concrete Panel",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0111,ML_MGCS111_001,Sheet Piling,"M 25, 100 mm thick Precast Concrete Panel",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0111,ML_MGCS111_004,Sheet Piling,"M 25, 300 mm thick Precast Concrete Panel",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0111,ML_MGCS111_002,Sheet Piling,"M 25, 200 mm thick Precast Concrete Panel",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0111,ML_MGCS111_007,Sheet Piling,"M 30, 250 mm thick Precast Concrete Panel",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0111,ML_MGCS111_006,Sheet Piling,"M 30, 200 mm thick Precast Concrete Panel",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0111,ML_MGCS111_003,Sheet Piling,"M 25, 250 mm thick Precast Concrete Panel",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0113,ML_MGCS113_001,Heavy weight Aggregate,Aggregates - Barite,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0113,ML_MGCS113_003,Heavy weight Aggregate,Aggregates - Iron Shots,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0113,ML_MGCS113_002,Heavy weight Aggregate,Aggregates - Magnetite,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0113,ML_MGCS113_004,Heavy weight Aggregate,Aggregates - Lead Shots,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0117,ML_MGCS117_004,Shotcrete Type,Accelerated Admixtures,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0117,ML_MGCS117_002,Cementitious Grout,Propritory Grouting Material,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0117,ML_MGCS117_001,Cementitious Material,Silica Flume,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0117,ML_MGCS117_005,Shotcrete Type,Polymer Emulsion,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0117,ML_MGCS117_003,Shotcrete Type,Fibre Reinforcement,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0120,ML_MGCS120_004,Movement Joint,Proprietary Movement Joint in Composite Material,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0120,ML_MGCS120_001,Movement Joint,Proprietary Movement Joint in Epoxy Coated Mild Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0120,ML_MGCS120_003,Movement Joint,Proprietary Movement Joint in Anodized Aluminium,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0120,ML_MGCS120_002,Movement Joint,Proprietary Movement Joint in Galvanized Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0123,ML_MGCS123_003,Slotted Channel Framing,"Pre-galvanized Steel - Studs,Tracks, U-Channels, Furring- Channels, L-Headers",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0123,ML_MGCS123_004,Slotted Channel Framing,"Hot-dip Galvanized Steel - Studs,Tracks, U-Channels, Furring- Channels, L-Headers",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0123,ML_MGCS123_001,Slotted Channel Framing,"Painted MS - Studs,Tracks, U-Channels, Furring- Channels, L-Headers",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0123,ML_MGCS123_002,Slotted Channel Framing,"Epoxy Coated steel - Studs,Tracks, U-Channels, Furring- Channels, L-Headers",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0126,ML_MGCS126_002,Water stop Bar,"PVC Dumb bell with central bulb (180 mm wide, 8 mm thick)",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0126,ML_MGCS126_001,Water stop Bar,PVC Water stop serrated with central bulb 225mm wide & 8-12mm thk.,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0126,ML_MGCS126_003,Water stop Bar,"PVC Kickers (320 mm wide, 5 mm thick)",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0127,ML_MGCS127_004,Fibrous Reinforcing Material,Glass Fibre,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0127,ML_MGCS127_002,Fibrous Reinforcing Material,Micro Synthetic Fibre,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0127,ML_MGCS127_003,Fibrous Reinforcing Material,Macro Synthetic Fibre,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0127,ML_MGCS127_001,Fibrous Reinforcing Material,Steel Fibre,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0127,ML_MGCS127_005,Fibrous Reinforcing Material,Cellulose Fibre,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0128,ML_MGCS128_001,Floor Hardner,Epoxy Based Hardner,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0128,ML_MGCS128_002,Hardner,Floor Hardner,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0128,ML_MGCS128_003,Top coat hardner,High performance urethane,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0134,ML_MGCS134_001,Finish,Anodised,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0134,ML_MGCS134_002,Finish,Powder Coated,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_002,GI - Joint Reinforcement,Truss Tri Mesh,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_003,GI - Joint Reinforcement,Truss Twin Mesh,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_008,GI - Joint Reinforcement,Ladder Twin Mesh,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_010,GI - Joint Reinforcement,Ladder Eye Wire,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_004,GI - Joint Reinforcement,Truss Box Mesh,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_001,GI - Joint Reinforcement,Truss Mesh,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_007,GI - Joint Reinforcement,Ladder Tri Mesh,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_009,GI - Joint Reinforcement,Ladder Box Mesh,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_005,GI - Joint Reinforcement,Adjustable Truss Eye Wire,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0135,ML_MGCS135_006,GI - Joint Reinforcement,Ladder Mesh,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0142,ML_MGCS142_005,Aluminium Floor Decking,Sheet  - 1.6 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0142,ML_MGCS142_006,Aluminium Floor Decking,Sheet  - 2.0 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0142,ML_MGCS142_007,Aluminium Floor Decking,Sheet  - 2.5mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0142,ML_MGCS142_001,Aluminium Floor Decking,Sheet  - 0.6 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0142,ML_MGCS142_003,Aluminium Floor Decking,Sheet  - 1.0 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0142,ML_MGCS142_004,Aluminium Floor Decking,Sheet  - 1.2 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0142,ML_MGCS142_002,Aluminium Floor Decking,Sheet  - 0.8 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_011,Steel Floor Decking,0.8 mm thick- Steel with Primer,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_012,Steel Floor Decking,1.00 mm thick- Steel with Primer,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_016,Steel Floor Decking,0.8 mm thick- Painted Steel Deck,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_017,Steel Floor Decking,1.00 mm thick- Painted Steel Deck,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_018,Steel Floor Decking,1.25 mm thcik- Painted Steel Deck,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_020,Steel Floor Decking,2.00 mm thick- Painted Steel Deck,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_002,Steel Floor Decking,1.00 mm thick- Bare Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_004,Steel Floor Decking,1.6 mm thick- Bare Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_003,Steel Floor Decking,1.25 mm thcik- Bare Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_013,Steel Floor Decking,1.25 mm thcik- Steel with Primer,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_014,Steel Floor Decking,1.6 mm thick- Steel with Primer,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_015,Steel Floor Decking,2.00 mm thick- Steel with Primer,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_019,Steel Floor Decking,1.6 mm thick- Painted Steel Deck,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_005,Steel Floor Decking,2.00 mm thick-Bare Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_006,Steel Floor Decking,0.8 mm thick- Galvanized Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_007,Steel Floor Decking,1.00 mm thick- Galvanized Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_008,Steel Floor Decking,1.25 mm thcik- Galvanized Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_009,Steel Floor Decking,1.6 mm thick- Galvanized Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_010,Steel Floor Decking,2.00 mm thick- Galvanized Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0143,ML_MGCS143_001,Steel Floor Decking,0.8 mm thick- Bare Steel,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0146,ML_MGCS146_003,Structural Rod Assemblies,Stainless Steel Rod Assemblies,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0146,ML_MGCS146_004,Structural Rod Assemblies,Chrome Plated Steel  Rod Assemblies,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0146,ML_MGCS146_001,Structural Rod Assemblies,Galvanised Steel Rod Assemblies,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0146,ML_MGCS146_002,Structural Rod Assemblies,High Tensile Steel Rod Assemblies,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_011,Vegitation control chemical,DSMA,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_014,Vegitation control chemical,Quinclorac,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_001,Vegitation control chemical,Benefin,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_004,Vegitation control chemical,Bensulide + oxadiazon,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_007,Vegitation control chemical,Pendimethalin,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_008,Vegitation control chemical,Prodiamine,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_009,Vegitation control chemical,Siduron,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_010,Vegitation control chemical,Dithiopyr,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_002,Vegitation control chemical,Benefin and trifluralin,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_003,Vegitation control chemical,Bensulide,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_005,Vegitation control chemical,Dithiopyr,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_006,Vegitation control chemical,Oxadiazon,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_012,Vegitation control chemical,Fenoxaprop-p-ethyl,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0147,ML_MGCS147_013,Vegitation control chemical,MSMA,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_011,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_012,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_020,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_005,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_013,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_003,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_002,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_001,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_006,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_016,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_017,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_021,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_007,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_023,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_008,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_009,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_010,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_015,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_018,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_004,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 100 , PN 10 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_014,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_019,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0148,ML_MGCS148_022,HDPE Pipe PE100 PN 10,"HDPE Pipe PE 80 , PN 6 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0149,ML_MGCS149_001,Slurry,Bentonite,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0150,ML_MGCS150_002,Joint primer,Crystaline Primer,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0150,ML_MGCS150_001,Joint primer,Epoxy Primer,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_002,Ready Mix Concrete,R M C M-25,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_008,Ready Mix Concrete,R M C M-55,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_003,Ready Mix Concrete,R M C M-30,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_004,Ready Mix Concrete,R M C M-35,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_007,Ready Mix Concrete,R M C M-50,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_001,Ready Mix Concrete,R M C M-20,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_005,Ready Mix Concrete,R M C M-40,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_006,Ready Mix Concrete,R M C M-45,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0155,ML_MGCS155_009,Ready Mix Concrete,R M C M-60,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0156,ML_MGCS156_005,Heavy weight Ready Made Mix Concrete,R M C M-40,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0156,ML_MGCS156_006,Heavy weight Ready Made Mix Concrete,R M C M-45,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0156,ML_MGCS156_007,Heavy weight Ready Made Mix Concrete,R M C M-50,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0156,ML_MGCS156_003,Heavy weight Ready Made Mix Concrete,R M C M-30,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0156,ML_MGCS156_004,Heavy weight Ready Made Mix Concrete,R M C M-35,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0156,ML_MGCS156_002,Heavy weight Ready Made Mix Concrete,R M C M-25,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0156,ML_MGCS156_008,Heavy weight Ready Made Mix Concrete,R M C M-55,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0156,ML_MGCS156_001,Heavy weight Ready Made Mix Concrete,R M C M-20,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0159,ML_MGCS159_004,Self compacting concrete,R M C M-35- Self Compacting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0159,ML_MGCS159_007,Self compacting concrete,R M C M-50- Self Compacting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0159,ML_MGCS159_008,Self compacting concrete,R M C M-55- Self Compacting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0159,ML_MGCS159_005,Self compacting concrete,R M C M-40- Self Compacting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0159,ML_MGCS159_006,Self compacting concrete,R M C M-45- Self Compacting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0159,ML_MGCS159_001,Self compacting concrete,R M C M-20 - Self Compacting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0159,ML_MGCS159_002,Self compacting concrete,R M C M-25- Self Compacting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0159,ML_MGCS159_003,Self compacting concrete,R M C M-30- Self Compacting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_008,Blanket Insulator,Plastic Fibre glass blanket R-3.6,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_021,Blanket Insulator,Mineral Wool Blanket,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_022,Blanket Insulator,Ceramic Fiber Blanket,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_023,Blanket Insulator,Tempmat - Mechanically Bonded Insulating Blanket,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_006,Blanket Insulator,Plastic Fibre glass blanket R-3.4,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_017,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.5,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_005,Blanket Insulator,Plastic Fibre glass blanket R-3.3,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_011,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-2.9,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_012,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.0,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_007,Blanket Insulator,Plastic Fibre glass blanket R-3.5,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_015,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.3,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_009,Blanket Insulator,Plastic Fibre glass blanket R-3.7,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_016,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.4,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_020,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.8,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_013,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.1,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_001,Blanket Insulator,Plastic Fibre glass blanket R-2.9,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_003,Blanket Insulator,Plastic Fibre glass blanket R-3.1,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_002,Blanket Insulator,Plastic Fibre glass blanket R-3.0,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_010,Blanket Insulator,Plastic Fibre glass blanket R-3.8,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_014,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.2,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_018,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.6,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_019,Blanket Insulator,Utilicore High Temperature Fiberglass Blanket R-3.7,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0161,ML_MGCS0161_004,Blanket Insulator,Plastic Fibre glass blanket R-3.2,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_222,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_136,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_145,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_149,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_033,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_034,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_036,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_037,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_039,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 40mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_045,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_054,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_112,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_113,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_114,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_139,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_162,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 20mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_163,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_188,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_189,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_194,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_195,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_241,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_245,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_234,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_027,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_236,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_028,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_029,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_035,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_052,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_123,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_140,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 20mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_143,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_144,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_146,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_147,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_165,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_166,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_181,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_183,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_190,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_191,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_193,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_001,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_002,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_022,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_072,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_077,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_085,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_092,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_093,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_152,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_070,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_200,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_074,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_201,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_103,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_203,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_126,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_204,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_161,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_098,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_217,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_099,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_227,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_229,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_244,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_250,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_243,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_254,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_262,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_012,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_015,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_019,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_238,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_246,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_076,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_047,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_049,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_081,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 20mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_082,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_055,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_090,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_057,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_073,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_101,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 20mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_005,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_016,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_158,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_148,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_018,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 40mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_020,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_021,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_151,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_061,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_063,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_171,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_164,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_065,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_197,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_067,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_068,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_059,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_182,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_060,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_202,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_062,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_064,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_196,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_127,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_177,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_223,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_178,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_247,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_255,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_119,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_046,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_198,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_048,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_199,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_086,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_138,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_089,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_142,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_213,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_094,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_096,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_160,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_215,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_097,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_216,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_172,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_173,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_218,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_100,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 16mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_219,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_104,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_220,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_176,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_106,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_107,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_225,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_206,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_240,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_115,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_231,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_248,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 16mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_233,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_249,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 20mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_235,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_237,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_251,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_252,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_239,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_253,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_257,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_117,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_258,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_118,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_259,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_260,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_120,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_261,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_121,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_122,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_264,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_010,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_205,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_267,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_208,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_129,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_135,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_013,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_130,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_268,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_210,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_131,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_242,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_211,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_030,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_087,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_212,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_141,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_091,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_159,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_214,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_031,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_078,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_032,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_038,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_003,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_041,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_004,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_079,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_080,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 16mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_040,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_050,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_043,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_083,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_084,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_058,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 20mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_095,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_153,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_007,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_009,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_156,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_124,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_011,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_125,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_157,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_014,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_066,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_128,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_069,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_071,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_209,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_075,HDPE Pipe,"HDPE Pipe PE 63 , PN 10 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_174,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_175,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 200mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_105,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_221,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_108,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_256,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_116,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_263,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_006,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_132,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_008,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 180mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_133,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_265,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_134,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 280mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_266,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_207,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 60mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_269,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_224,HDPE Pipe,"HDPE Pipe PE 100 , PN 10 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_270,HDPE Pipe,"HDPE Pipe PE 100 , PN 16 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_017,HDPE Pipe,"HDPE Pipe PE 63 , PN 2.5 500mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_226,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 20mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_023,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_228,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_024,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_230,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 50mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_025,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_232,HDPE Pipe,"HDPE Pipe PE 100 , PN 12.5 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_026,HDPE Pipe,"HDPE Pipe PE 63 , PN 4 160mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_053,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_056,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 450mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_102,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_109,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_110,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 125mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_111,HDPE Pipe,"HDPE Pipe PE 63 , PN 16 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_137,HDPE Pipe,"HDPE Pipe PE 80 , PN 6 400mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_150,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 140mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_167,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 63mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_179,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 315mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_180,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 355mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_184,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 16mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_185,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 20mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_186,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 25mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_187,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 32mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_192,HDPE Pipe,"HDPE Pipe PE 80 , PN 16 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_088,HDPE Pipe,"HDPE Pipe PE 63 , PN 12.5 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_154,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 220mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_155,HDPE Pipe,"HDPE Pipe PE 80 , PN 10 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_168,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_051,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 250mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_169,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 90mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_042,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 75mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_170,HDPE Pipe,"HDPE Pipe PE 80 , PN 12.5 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0164,ML_MGCS164_044,HDPE Pipe,"HDPE Pipe PE 63 , PN 6 110mm dia",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0166,ML_MGCS166_001,Fire proof Cement,Fire proof cement (medium density),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0166,ML_MGCS166_002,Fire proof Cement,Fire proof cement (high density),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0166,ML_MGCS166_003,Fire proof Cement,Fire proof cement (commercial  density),Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_008,PVC Pipe,"PVC 200mm Dia Pipe, PN4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_009,PVC Pipe,"PVC 250mm Dia Pipe, PN4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_021,PVC Pipe,"PVC 250mm Dia Pipe, PN 10",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_003,PVC Pipe,"PVC 32mm Dia Pipe, PN 4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_004,PVC Pipe,"PVC 40mm Dia Pipe, PN 4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_007,PVC Pipe,"PVC 150mm Dia Pipe, PN4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_022,PVC Pipe,"PVC 300mm Dia Pipe, PN 10",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_026,PVC Pipe,"PVC 200mm Dia Pipe, PN 16",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_002,PVC Pipe,"PVC 25mm Dia Pipe, PN 4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_005,PVC Pipe,"PVC 50mm Dia Pipe, PN 4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_020,PVC Pipe,"PVC 200mm Dia Pipe, PN 10",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_023,PVC Pipe,"PVC 375mm Dia Pipe, PN 10",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_024,PVC Pipe,"PVC 100mm Dia Pipe, PN 16",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_025,PVC Pipe,"PVC 150mm Dia Pipe, PN 16",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_027,PVC Pipe,"PVC 250mm Dia Pipe, PN 16",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_028,PVC Pipe,"PVC 300mm Dia Pipe, PN 16",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_006,PVC Pipe,"PVC 100mm Dia Pipe, PN 4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_011,PVC Pipe,"PVC 375mm Dia Pipe, PN4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_012,PVC Pipe,"PVC 100mm Dia Pipe, PN 6",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_015,PVC Pipe,"PVC 250mm Dia Pipe, PN 6",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_010,PVC Pipe,"PVC 300mm Dia Pipe, PN4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_013,PVC Pipe,"PVC 150mm Dia Pipe, PN 6",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_014,PVC Pipe,"PVC 200mm Dia Pipe, PN 6",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_016,PVC Pipe,"PVC 300mm Dia Pipe, PN 6",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_017,PVC Pipe,"PVC 375mm Dia Pipe, PN 6",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_018,PVC Pipe,"PVC 100mm Dia Pipe, PN 10",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_019,PVC Pipe,"PVC 150mm Dia Pipe, PN 10",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_001,PVC Pipe,"PVC 20mm Dia Pipe, PN 4",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0167,ML_MGCS167_029,PVC Pipe,"PVC 375mm Dia Pipe, PN 16",Alias,DESCRIPTION,BAGS,18,0
+MG_CS0169,ML_MGCS169_001,Corrugated  Aluminium Pipe,Corrugated aluminium pipe -100mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0169,ML_MGCS169_003,Corrugated  Aluminium Pipe,Corrugated aluminium pipe -200mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0169,ML_MGCS169_006,Corrugated  Aluminium Pipe,Corrugated aluminium pipe -350mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0169,ML_MGCS169_004,Corrugated  Aluminium Pipe,Corrugated aluminium pipe -250mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0169,ML_MGCS169_005,Corrugated  Aluminium Pipe,Corrugated aluminium pipe -300mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0169,ML_MGCS169_002,Corrugated  Aluminium Pipe,Corrugated aluminium pipe -150mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0170,ML_MGCS170_004,Aluminium Composite panels,Aluminium composite panel -5 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0170,ML_MGCS170_005,Aluminium Composite panels,Aluminium composite panel -6 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0170,ML_MGCS170_003,Aluminium Composite panels,Aluminium composite panel -4 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0170,ML_MGCS170_002,Aluminium Composite panels,Aluminium composite panel -3.5 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0170,ML_MGCS170_001,Aluminium Composite panels,Aluminium composite panel -3 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0171,ML_MGCS171_001,Compact laminate,Compact laminated board- 13mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0171,ML_MGCS171_002,Compact laminate,Compact laminated board- 18mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0172,ML_MGCS172_005,Fire proof Cement,Vermiculite more than 12 mm aggregates,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0172,ML_MGCS172_002,Fire proof Cement,Vermiculite 1 - 3 mm aggregates,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0172,ML_MGCS172_003,Fire proof Cement,Vermiculite 3 - 6 mm aggregates,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0172,ML_MGCS172_004,Fire proof Cement,Vermiculite 6 - 12 mm aggregates,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0172,ML_MGCS172_001,Fire proof Cement,Vermiculite  Below 1mm. and fines powder,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0174,ML_MGCS174_001,Sealant,Silicon Sealant,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0174,ML_MGCS174_002,Sealant,Polysulphide sealant,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0174,ML_MGCS174_003,Sealant,Weather sealant DC789,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0181,ML_MGCS181_002,Hot Rolled Steel Sections,Hot Rolled Steel Section Grade \nFe 205,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0181,ML_MGCS181_004,Hot Rolled Steel Sections,Hot Rolled Steel Section Grade \nFe 325,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0181,ML_MGCS181_008,Hot Rolled Steel Sections,Hot Rolled Steel Section Grade \nFe 560,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0181,ML_MGCS181_006,Hot Rolled Steel Sections,Hot Rolled Steel Section Grade \nFe 420,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0181,ML_MGCS181_001,Hot Rolled Steel Sections,Hot Rolled Steel Section Grade \nFe 165,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0181,ML_MGCS181_005,Hot Rolled Steel Sections,Hot Rolled Steel Section Grade \nFe 355,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0181,ML_MGCS181_003,Hot Rolled Steel Sections,Hot Rolled Steel Section Grade \nFe 245,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0181,ML_MGCS181_007,Hot Rolled Steel Sections,Hot Rolled Steel Section Grade \nFe 490,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0182,ML_MGCS182_001,Cold Formed Steel Section,Cold Formed Steel Section Grade \nFe 235,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0182,ML_MGCS182_003,Cold Formed Steel Section,Cold Formed Steel Section Grade \nFe 355,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0182,ML_MGCS182_002,Cold Formed Steel Section,Cold Formed Steel Section Grade \nFe 275,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0184,ML_MGCS184_001,Pre Engineered Pre Fabricated Steel Sections,Pre Engineered Pre Fabricated Steel Sections Grade FE 450,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0184,ML_MGCS184_002,Pre Engineered Pre Fabricated Steel Sections,Pre Engineered Pre Fabricated Steel Sections Grade FE 500,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0187,ML_MGCS187_003,Injection Grouting,Ligno Sulphate injection grout,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0187,ML_MGCS187_004,Injection Grouting,Fibre reinforced injection grout,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0187,ML_MGCS187_005,Injection Grouting,Cement-Sand grout,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0187,ML_MGCS187_006,Injection Grouting,Gas Forming Grout,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0187,ML_MGCS187_001,Injection Grouting,Epoxy based Injection Grout,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0187,ML_MGCS187_007,Injection Grouting,Sulfo-aluminate grout,Alias,DESCRIPTION,BAGS,18,0
+MG_CS0187,ML_MGCS187_002,Injection Grouting,Acrylic polymer based grout,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1066,ML_MGCS1066_002,Joint filler Material,Bitumen Board - 20% Bitumen,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1066,ML_MGCS1066_003,Joint filler Material,Bitumen Board - 35% Bitumen,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1066,ML_MGCS1066_001,Joint filler Material,Bitumen Board - 10% Bitumen,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_003,Dry Placed Stone,Red sand stone,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_005,Dry Placed Stone,Red sand stone _rounded,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_012,Dry Placed Stone,White sand stone_slab,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_007,Dry Placed Stone,Limestone_Angular flat,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_011,Dry Placed Stone,Red sand stone _slab,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_009,Dry Placed Stone,marble_Angular flat,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_010,Dry Placed Stone,Slate_Angular flat,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_001,Dry Placed Stone,Stone,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_004,Dry Placed Stone,White sand stone,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_008,Dry Placed Stone,Granite_Angular flat,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1100,ML_MGCS100_006,Dry Placed Stone,White sand stone_rounded,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1104,ML_MGCS1104_002,Pavers,Roof Ballast Pavers - M 25; 50 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1104,ML_MGCS1104_003,Pavers,Roof Ballast Pavers - M 25; 60 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1104,ML_MGCS1104_004,Pavers,Roof Ballast Pavers - M 25; 70 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1104,ML_MGCS1104_001,Pavers,Roof Ballast Pavers - M 25; 40 mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_003,Structural Glass,16mm thick tempered Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_004,Structural Glass,19mm thick tempered Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_012,Structural Glass,10mm thick tempered glass_Metallic colour coating,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_013,Structural Glass,10mm thick tempered glass_Sandblasting,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_017,Structural Glass,Toughened Glass - 8mm thk,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_002,Structural Glass,12mm thick tempered Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_011,Structural Glass,10mm thick tempered glass_Opaque colour coating,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_018,Structural Glass,Toughened Glass - 12mm thk,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_001,Structural Glass,10mm thick tempered Glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_016,Structural Glass,Toughened Glass - 6mm thk,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1121,ML_MGCS21_010,Structural Glass,10mm thick tempered glass_Opaque enameled frit,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1123,ML_MGCS1123_001,Stud Framing,"Painted MS - Studs,Tracks, U-Channels, Furring- Channels, L-Headers",Alias,DESCRIPTION,BAGS,18,0
+MG_CS1123,ML_MGCS1123_002,Stud Framing,"Epoxy Coated steel - Studs,Tracks, U-Channels, Furring- Channels, L-Headers",Alias,DESCRIPTION,BAGS,18,0
+MG_CS1123,ML_MGCS1123_004,Stud Framing,"Hot-dip Galvanized Steel - Studs,Tracks, U-Channels, Furring- Channels, L-Headers",Alias,DESCRIPTION,BAGS,18,0
+MG_CS1123,ML_MGCS1123_003,Stud Framing,"Pre-galvanized Steel - Studs,Tracks, U-Channels, Furring- Channels, L-Headers",Alias,DESCRIPTION,BAGS,18,0
+MG_CS1140,ML_MGCS155_002,Ready Mix Concrete-Precast,R M C M-25,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1140,ML_MGCS155_006,Ready Mix Concrete-Precast,R M C M-45,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1140,ML_MGCS155_008,Ready Mix Concrete-Precast,R M C M-55,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1140,ML_MGCS155_003,Ready Mix Concrete-Precast,R M C M-30,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1140,ML_MGCS155_001,Ready Mix Concrete-Precast,R M C M-20,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1140,ML_MGCS155_004,Ready Mix Concrete-Precast,R M C M-35,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1140,ML_MGCS155_005,Ready Mix Concrete-Precast,R M C M-40,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1140,ML_MGCS155_007,Ready Mix Concrete-Precast,R M C M-50,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1141,ML_MGCS6_002,Bricks,Flyash Bricks,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1141,ML_MGCS6_001,Bricks,Clay Bricks,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_003,Clay Roof tile,Mangalore Roof Tile - Single Groove 9x6 inch,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_001,Clay Roof tile,Mangalore Roof Tile - Single Groove 16x10 inch,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_004,Clay Roof tile,Mangalore Roof Tile - Single Groove 8x5 inch,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_006,Clay Roof tile,Mangalore Roof Tile - Double Groove 11x7 inch,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_007,Clay Roof tile,Mangalore Roof Tile - Double Groove 9x6 inch,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_008,Clay Roof tile,Mangalore Roof Tile - Double Groove 8x5 inch,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_005,Clay Roof tile,Mangalore Roof Tile - Double Groove 16x10 inch,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_002,Clay Roof tile,Mangalore Roof Tile - Single Groove 11x7 inch,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1142,ML_MGCS1142_009,Clay Roof tile,Patterened Roof Tiles,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1143,ML_MGCS1143_001,Cement Roof Panels,Cement Roof Tile 6mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1143,ML_MGCS1143_004,Cement Roof Panels,Cement Roof Tile 15mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1143,ML_MGCS1143_002,Cement Roof Panels,Cement Roof Tile 9mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1143,ML_MGCS1143_003,Cement Roof Panels,Cement Roof Tile 12mm thick,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1157,ML_MGCS1157_005,Soil nail bars,TMT bar of 25mm dia_1.5m long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1157,ML_MGCS1157_006,Soil nail bars,TMT bar of 32mm dia_1.5m long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1157,ML_MGCS1157_007,Soil nail bars,Proprietory Anchor bars,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1157,ML_MGCS1157_003,Soil nail bars,TMT bar of 20mm dia_1.5m long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1157,ML_MGCS1157_001,Soil nail bars,TMT bar of 16mm dia_1.5m long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1157,ML_MGCS1157_002,Soil nail bars,TMT bar of 18mm dia_1.5m long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1157,ML_MGCS1157_004,Soil nail bars,TMT bar of 22mm dia_1.5m long,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1158,ML_MGCS1158_001,Formwork,Table system formwork,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_001,Security Glass,4mm thick_Toughened glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_002,Security Glass,5mm thick_Toughened glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_003,Security Glass,6mm thick_Toughened glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_004,Security Glass,8mm thick_Toughened glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_005,Security Glass,10mm thick_Touhened glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_008,Security Glass,8.38mm thick_Laminated glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_009,Security Glass,10.38mm thick_Laminated glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_006,Security Glass,12mm thick_Toughened glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_007,Security Glass,6.38mm thick_Laminated glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_010,Security Glass,12.76mm thick_Laminated glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_011,Security Glass,6mm thick_Wire mesh glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_012,Security Glass,6.5mm thick_Wire mesh glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1160,ML_MGCS1160_013,Security Glass,7mm thick_Wire mesh glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_009,Fire-Resistant glass,37mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_003,Fire-Resistant glass,8mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_004,Fire-Resistant glass,10mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_008,Fire-Resistant glass,23mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_005,Fire-Resistant glass,12mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_006,Fire-Resistant glass,14mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_007,Fire-Resistant glass,19mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_001,Fire-Resistant glass,5mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1161,ML_MGCS1161_002,Fire-Resistant glass,6mm thick_Fire resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1162,ML_MGCS1162_002,Radiation-Resistant Glass,15mm thick_Leaded glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1162,ML_MGCS1162_003,Radiation-Resistant Glass,19mm thick_Leaded glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1162,ML_MGCS1162_001,Radiation-Resistant Glass,12.5mm thick_Leaded glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1163,ML_MGCS1163_004,Ballistic-Resistant glass,52.9mm thick_Ballistic resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1163,ML_MGCS1163_003,Ballistic-Resistant glass,51.28mm thick_Ballistic resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1163,ML_MGCS1163_005,Ballistic-Resistant glass,78.8mm thick_Ballistic resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1163,ML_MGCS1163_002,Ballistic-Resistant glass,38.9mm thick_Ballistic resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_CS1163,ML_MGCS1163_001,Ballistic-Resistant glass,28.14mm thick_Ballistic resistant glass,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG034,Flanges,"350mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG059,Flanges,200mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG072,Flanges,150mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG091,Flanges,400mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG001,Flanges,50mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG017,Flanges,"125mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG051,Flanges,500mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG054,Flanges,65mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG056,Flanges,100mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG002,Flanges,65mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG004,Flanges,100mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG006,Flanges,150mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG013,Flanges,500mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG015,Flanges,"80mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG018,Flanges,"150mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG019,Flanges,"200mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG021,Flanges,"300mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG022,Flanges,"350mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG024,Flanges,"450mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG026,Flanges,"600mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG028,Flanges,"100mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG030,Flanges,"150mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG032,Flanges,"250mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG046,Flanges,250mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG031,Flanges,"200mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG066,Flanges,600mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG008,Flanges,250mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG068,Flanges,65mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG074,Flanges,250mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG077,Flanges,400mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG012,Flanges,450mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG020,Flanges,"250mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG079,Flanges,500mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG081,Flanges,50mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG023,Flanges,"400mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG083,Flanges,80mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG087,Flanges,200mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG089,Flanges,300mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG025,Flanges,"500mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG092,Flanges,450mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG094,Flanges,600mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG098,Flanges,100mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG029,Flanges,"125mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG099,Flanges,125mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG101,Flanges,200mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG104,Flanges,350mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG106,Flanges,450mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG036,Flanges,"450mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG038,Flanges,"600mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG108,Flanges,600mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG047,Flanges,300mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG062,Flanges,350mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG049,Flanges,400mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG065,Flanges,500mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG050,Flanges,450mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG073,Flanges,200mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG076,Flanges,350mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG060,Flanges,250mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG063,Flanges,400mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG078,Flanges,450mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG080,Flanges,600mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG069,Flanges,80mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG071,Flanges,125mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG102,Flanges,250mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG085,Flanges,125mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG093,Flanges,500mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG009,Flanges,300mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG027,Flanges,"80mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG037,Flanges,"500mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG039,Flanges,50mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG041,Flanges,80mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG057,Flanges,125mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG048,Flanges,350mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG070,Flanges,100mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG033,Flanges,"300mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG055,Flanges,80mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG067,Flanges,50mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG053,Flanges,50mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG082,Flanges,65mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG096,Flanges,65mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG075,Flanges,300mm dia MS flange as per Table F of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG086,Flanges,150mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG058,Flanges,150mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG088,Flanges,250mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG061,Flanges,300mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG064,Flanges,450mm dia MS flange as per Table E of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG084,Flanges,100mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG090,Flanges,350mm dia MS flange as per Table H of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG095,Flanges,50mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG100,Flanges,150mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG107,Flanges,500mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG035,Flanges,"400mm dia MS flange as per IS 9523, PN 1.6",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG040,Flanges,65mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG043,Flanges,125mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG044,Flanges,150mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG052,Flanges,600mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG097,Flanges,80mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG042,Flanges,100mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG003,Flanges,80mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG005,Flanges,125mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG007,Flanges,200mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG045,Flanges,200mm dia MS flange as per Table D of BS 10,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG010,Flanges,350mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG103,Flanges,300mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG011,Flanges,400mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG016,Flanges,"100mm dia MS flange as per IS 9523, PN 1.0",Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG014,Flanges,600mm dia MS flange as per IS 1538 & IS 14846,Alias,DESCRIPTION,BAGS,18,0
+MG_FLNG001,ML_FLNG105,Flanges,400mm dia MS flange as per ANSI B16.5 CL150,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0027,ML_MGFO27_002,MS Screws,Mild steel screws 20 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0027,ML_MGFO27_004,MS Screws,Mild steel screws 40 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0027,ML_MGFO27_001,MS Screws,Mild steel screws 30 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0027,ML_MGFO27_003,MS Screws,Mild steel screws 50 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0035,ML_MGFO161_023,Aluminium (anodised) Butt hinges,"Aluminium  Butt hinges  , size : 75x45x3.2mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0035,ML_MGFO161_022,Aluminium (anodised) Butt hinges,"Aluminium  Butt hinges  , size : 75x63x3.2mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0035,ML_MGFO161_024,Aluminium (anodised) Butt hinges,"Anodised Aluminium butt hinges 100x75x4 mm ,",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0035,ML_MGFO161_021,Aluminium (anodised) Butt hinges,"Aluminium  Butt hinges  , size : 75x63x4mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0043,ML_MGFO38_001,Stainless steel Door Hinges,"Stainless steel  Butt hinges , size : 125x64x1.90mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0043,ML_MGFO38_003,Stainless steel Door Hinges,"Stainless steel  Butt hinges , size : 125x64x2.5mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0043,ML_MGFO38_004,Stainless steel Door Hinges,"Stainless steel  Butt hinges , size : 100x60x2.5mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0043,ML_MGFO38_002,Stainless steel Door Hinges,"Stainless steel  Butt hinges , size : 100x58x1.90mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0054,ML_MGFO54_001,finish (Aluminium section),Anodising 15 microns,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0054,ML_MGFO54_003,finish (Aluminium section),Powder coating 50 microns,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0054,ML_MGFO54_004,finish (Aluminium section),Polyester powder coating 50 microns,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0054,ML_MGFO54_002,finish (Aluminium section),Anodising 25 microns,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0055,ML_MGFO55_001,finish (MS section),Painted with enamel paint (after coat of primer),Alias,DESCRIPTION,BAGS,18,0
+MG_FO0055,ML_MGFO55_002,finish (MS section),Electroplated,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0055,ML_MGFO55_004,finish (MS section),Epoxy painted,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0055,ML_MGFO55_003,finish (MS section),Galvanised,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0056,ML_MGFO56_001,finish (SS section),Buff finish,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0057,ML_MGFO57_003,Wood,Hard wood (Mirandi),Alias,DESCRIPTION,BAGS,18,0
+MG_FO0057,ML_MGFO57_006,Wood,Kiln seasoned and chemically treated selected members of sheesham wood,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0057,ML_MGFO57_007,Wood,Mahogany Wood,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0057,ML_MGFO57_002,Wood,Sal wood,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0057,ML_MGFO57_001,Wood,Teak wood,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0057,ML_MGFO57_004,Wood,Hollock wood,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0057,ML_MGFO57_005,Wood,Second class kail wood,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0060,ML_MGFO60_002,Hold fastener,Brass concealed type dash hold fastener 12.5mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0060,ML_MGFO60_001,Hold fastener,Dash hold fasteners 12.5mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0060,ML_MGFO60_003,Hold fastener,Stainless steel 304 concealed type dash hold fastener 12.5mm dia,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0089,ML_MGFO89_001,finish (Bronze section),Wax polish,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0089,ML_MGFO89_002,finish (Bronze section),Lacquer Coating,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_001,Wood floor finish,Oil type wood preservative,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_002,Wood floor finish,Wax Polish,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_003,Wood floor finish,Spirit,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_004,Wood floor finish,Shellac,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_005,Wood floor finish,Ordinary varnish,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_006,Wood floor finish,Superior copal varnish,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_007,Wood floor finish,French spirit,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_008,Wood floor finish,Wood paint,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_009,Wood floor finish,Glue,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_010,Wood floor finish,Oil-Based Polyurethane,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0094,ML_MGFO94_011,Wood floor finish,Melamine Polish,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_002,Screws,oxidised M.S screws 40 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_004,Screws,oxidised M.S screws 25 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_017,Screws,Aluminium screws 25 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_005,Screws,Oxidised mild steel screws 50 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_006,Screws,Oxidised Mild steel screws 20 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_008,Screws,Chromium plated Brass screws 30 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_010,Screws,Chromium plated Brass screws 50 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_012,Screws,Brass screws 30 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_013,Screws,Brass screws 25 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_014,Screws,Brass screws 20 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_001,Screws,oxidised M.S screws 35 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_007,Screws,Chromium plated Brass screws 25 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_009,Screws,Chromium plated Brass screws 20 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_003,Screws,oxidised M.S screws 30 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_011,Screws,Chromium plated Brass screws 40 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_015,Screws,Brass screws 40 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0139,ML_MGFO139_016,Screws,Brass screws 50 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_013,Stainless steel Butt hinges,"Stainless steel  Butt hinges , size : 75x47x1.80mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_014,Stainless steel Butt hinges,"Stainless steel  Butt hinges , size : 50x37x1.50mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_015,Stainless steel Butt hinges,"Stainless steel  Butt hinges , size : 75x50x2.5mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_016,Brass Butt hinges,"Brass Butt hinges , size : 75x65x4mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_017,Brass Butt hinges,"Brass Butt hinges , size : 75x40x2.5mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_018,Brass Butt hinges,"Brass Butt hinges , size : 50x40x2.5mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_019,Brass Parliamentary hinges,"Brass Parliamentary hinge , size : 100x125x27x5mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_021,Aluminium (anodised) Butt hinges,"Aluminium  Butt hinges  , size : 75x63x4mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_023,Aluminium (anodised) Butt hinges,"Aluminium  Butt hinges  , size : 75x45x3.2mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_005,Oxidised MS Pressed butt hinges,"Oxidised M.S. pressed butt hinges, size : 75x47x1.70mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_007,Oxidised MS Parliamentary Hinges,"Oxidised M.S. Parliamentary hinge, size : 100x125x27x2.80 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_008,Oxidised MS Parliamentary Hinges,"Oxidised M.S. Parliamentary hinge, size : 75x100x20x2.24 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_009,Spring Hinges,"Oxidised M.S Single acting spring hinge, size : 100 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_010,Spring Hinges,"Oxidised M.S Double acting spring hinge, size : 100 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_011,Spring Hinges,"Brass Single acting spring hinge, size : 100 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_012,Spring Hinges,"Brass Double acting spring hinge, size : 100 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_004,MS Pressed butt hinges,"M.S. pressed butt hinges, size : 50x40x2.50 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_022,Aluminium (anodised) Butt hinges,"Aluminium  Butt hinges  , size : 75x63x3.2mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_001,MS Pressed butt hinges,"M.S. pressed butt hinges, size : 75x47x1.70mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_002,MS Pressed butt hinges,"M.S. pressed butt hinges, size : 50x37x1.50 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_006,Oxidised MS Pressed butt hinges,"Oxidised M.S. pressed butt hinges, size : 50x37x1.50 mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_024,Aluminium (anodised) Butt hinges,"Anodised Aluminium butt hinges 100x75x4 mm ,",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_003,MS Pressed butt hinges,"M.S. pressed butt hinges, size : 75x60x3.10mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0161,ML_MGFO161_020,Brass Parliamentary hinges,"Brass Parliamentary hinge , size : 75x100x20x3.2mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0163,ML_MGFO163_001,Door Hinges,"Stainless steel  Butt hinges , size : 75x47x1.80mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0163,ML_MGFO163_002,Door Hinges,"Stainless steel  Butt hinges , size : 50x37x1.50mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0163,ML_MGFO163_003,Door Hinges,"Stainless steel  Butt hinges , size : 75x50x2.5mm",Alias,DESCRIPTION,BAGS,18,0
+MG_FO0164,ML_MGFO164_001,Stainless steel screws,Stainless steel screws 30 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0164,ML_MGFO164_003,Stainless steel screws,Stainless steel screws 50 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0164,ML_MGFO164_002,Stainless steel screws,Stainless steel screws 20 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_FO0164,ML_MGFO164_004,Stainless steel screws,Stainless steel screws 40 mm,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG011,Puddle Flanges,250mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG001,Puddle Flanges,25mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG008,Puddle Flanges,125mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG012,Puddle Flanges,300mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG005,Puddle Flanges,65mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG010,Puddle Flanges,200mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG002,Puddle Flanges,32mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG003,Puddle Flanges,40mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG004,Puddle Flanges,50mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG007,Puddle Flanges,100mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG009,Puddle Flanges,150mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0
+MG_PFLNG001,ML_PFLNG006,Puddle Flanges,80mm dia MS puddle flange,Alias,DESCRIPTION,BAGS,18,0

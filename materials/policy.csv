@@ -1,0 +1,6 @@
+p, guest, /mm/materials/*, GET
+p, admin, /*, *
+p, some, /mm/materials/:id/:oid, GET
+p, , /mm/health, GET
+p,admin,/mm/trade/get/all/categories,GET
+p,admin,/mm/material/get/searched/material,GET
